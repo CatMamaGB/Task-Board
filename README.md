@@ -15,3 +15,28 @@ A simple, interactive task management board built with jQuery, Bootstrap, and Da
 - Delete tasks
 - Data persistence using localStorage
 - Responsive design
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
